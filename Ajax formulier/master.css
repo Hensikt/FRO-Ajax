@@ -1,0 +1,9 @@
+html{
+  margin: auto;
+  padding: auto;
+}
+#responseHere{
+  border: 5px dotted black;
+  width: 50%;
+  margin: 10px;
+}
